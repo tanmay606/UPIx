@@ -18,8 +18,6 @@ Future updates will introduce **AI-powered auto-categorization** for seamless ex
 ✅ **Automated Expense Extraction** – Fetches UPI transaction emails from **Gmail**.  
 ✅ **Excel-Based Expense Tracking** – Generates an **organized expense sheet** with category-wise spending (e.g., food, travel, bills).   
 ✅ **Simple & Lightweight** – No need for third-party tracking apps; data stays on your device.
-✅ **User Friendly UI**.
-
 ---
 
 
